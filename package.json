@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "A huss bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HussBot/Huss.git"
+  },
+  "author": "hHusnainmb36",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HussBot/Huss/issues"
+  },
+  "homepage": "https://github.com/HussBot/Huss#readme"
+}
